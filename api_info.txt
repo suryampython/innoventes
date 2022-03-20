@@ -1,0 +1,19 @@
+apis
+geting all company details use GET method  
+http://localhost:8000/company/   
+
+creating company use POST method
+http://localhost:8000/company/  
+
+geting all company details with pagenation
+http://localhost:8000/companypagenation/
+
+geting company id(1) use GET method
+http://localhost:8000/company/1/ 
+
+update company id(1) use PUT method
+http://localhost:8000/company/1/ 
+
+DELETE company id(1) use DELETE method
+http://localhost:8000/company/1/ 
+
